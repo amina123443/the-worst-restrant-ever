@@ -1,0 +1,60 @@
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.exe
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.deps.json
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.runtimeconfig.json
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.dll
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.pdb
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.csproj.AssemblyReference.cache
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.Form1.resources
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.Form2.resources
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.UserControl1.resources
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.csproj.GenerateResource.cache
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.AssemblyInfoInputs.cache
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.AssemblyInfo.cs
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.csproj.CoreCompileInputs.cache
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.dll
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\refint\the worst restrant ever.dll
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.pdb
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.genruntimeconfig.cache
+C:\Users\230482\source\repos\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\ref\the worst restrant ever.dll
+D:\c#\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.exe
+D:\c#\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.deps.json
+D:\c#\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.runtimeconfig.json
+D:\c#\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.dll
+D:\c#\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.pdb
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.Form1.resources
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.Form2.resources
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.csproj.GenerateResource.cache
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.AssemblyInfoInputs.cache
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.AssemblyInfo.cs
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.csproj.CoreCompileInputs.cache
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.dll
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\refint\the worst restrant ever.dll
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.pdb
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.genruntimeconfig.cache
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\ref\the worst restrant ever.dll
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.page1.resources
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.page2.resources
+D:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.page3.resources
+E:\c#\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.exe
+E:\c#\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.deps.json
+E:\c#\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.runtimeconfig.json
+E:\c#\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.dll
+E:\c#\the worst restrant ever\the worst restrant ever\bin\Debug\net6.0-windows\the worst restrant ever.pdb
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.csproj.AssemblyReference.cache
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.Form1.resources
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.Form2.resources
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.page1.resources
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.page2.resources
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the_worst_restrant_ever.page3.resources
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.csproj.GenerateResource.cache
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.AssemblyInfoInputs.cache
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.AssemblyInfo.cs
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.csproj.CoreCompileInputs.cache
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.dll
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\refint\the worst restrant ever.dll
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.pdb
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\the worst restrant ever.genruntimeconfig.cache
+E:\c#\the worst restrant ever\the worst restrant ever\obj\Debug\net6.0-windows\ref\the worst restrant ever.dll
